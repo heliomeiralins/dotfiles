@@ -22,13 +22,8 @@ incorporate in my workflow and useful tweaks and tips as this grows.
 
 ## Dotfiles I admire
 
-[wincent/wincent](https://github.com/wincent/wincent)
-
-[pigmonkey/spark](https://github.com/pigmonkey/spark)
-
-[xero/dotfiles](https://github.com/xero/dotfiles)
-
-[nelstrom/dotfiles](https://github.com/nelstrom/dotfiles)
-
-[Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github)
-
+* [wincent/wincent](https://github.com/wincent/wincent)
+* [pigmonkey/spark](https://github.com/pigmonkey/spark)
+* [xero/dotfiles](https://github.com/xero/dotfiles)
+* [nelstrom/dotfiles](https://github.com/nelstrom/dotfiles)
+* [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github)
